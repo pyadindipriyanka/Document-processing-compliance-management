@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Document Processing & Compliance Management Platform
 
 Secure REST API (FastAPI · PostgreSQL · SQLAlchemy 2 · Alembic · Pydantic v2) for uploading, versioning, reviewing,
@@ -185,3 +186,6 @@ docs/workflow-examples.md
 * `workflow_assignments` roles are resolved at submission; role changes later don't alter in-flight reviews
   (use reassign).
 * Redis caching, Celery, S3/MinIO, Prometheus and CI are optional extras left out in favour of correctness.
+=======
+# Document-processing-compliance-management
+>>>>>>> 9097af58f842ad103b75b78e317cb327bd837a9b
